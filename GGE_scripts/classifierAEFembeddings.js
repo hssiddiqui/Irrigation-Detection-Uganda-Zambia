@@ -1,3 +1,8 @@
+// Prompt: "Write GEE script to filter AlphaEarth embeddings for Uganda and year 2023.
+// Load irrigated and non-irrigated survey points from Assets. Train a random forest classifier.
+// Classify the embeddings image and run an accuracy assessment and print accuracy scores."
+/////////////////////////////////////////////////////////////////////////////////////
+
 // Select the region
 // ****************************************************
 
