@@ -10,6 +10,8 @@ Irrigation-Detection/
 │   └── ......                  
 ├── GEE_scripts/                                  
 │   └── Interactive_EVI_Extraction.js             # View Sentinel 2 EVI time series for polygons
+│   └── SDM_spatialblock_cross_validation.js      # Script used for spatial block cross validation training
+│   └── classifierAWFembeddings.js                # Script used for quick random Forest classifier (prompt included)
 │   └── ......     
 
 ```
