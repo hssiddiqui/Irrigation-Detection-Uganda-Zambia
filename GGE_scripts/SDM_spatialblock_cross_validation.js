@@ -1,12 +1,8 @@
-// Add two maps to the screen.
-var left = ui.Map();
-var right = ui.Map();
-ui.root.clear();
-ui.root.add(left);
-ui.root.add(right);
-
-// Link maps, so when you drag one map, the other will be moved in sync.
-ui.Map.Linker([left, right], 'change-bounds');
+/*
+Code adapted from conservation biologist Dr. Ramiro D. Crego's work
+He implemented SDM using the GEE JavaScript Code Editor 
+https://smithsonian.github.io/SDMinGEE/
+*/
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Section 1 - Load species data, AOI, and remove duplicates
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
