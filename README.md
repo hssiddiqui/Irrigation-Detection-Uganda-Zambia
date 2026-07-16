@@ -1,8 +1,8 @@
-# Comparative Study of Embeddings and Featurization for Smallholder Irrigation Detection
+# Comparative Study of Embeddings and Feature Engineering for Smallholder Irrigation Detection
 
 ## Repository Structure
 
-The repository contains scripts and files comparative study of embeddings and featurization for small holder irrigation detection across sub-Saharan Africa
+The repository contains scripts and files comparative study of embeddings and feature engineering for small holder irrigation detection across sub-Saharan Africa
 
 ```
 Irrigation-Detection/
